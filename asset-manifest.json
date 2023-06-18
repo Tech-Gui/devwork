@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/devwork/static/css/main.7cad142b.css",
+    "main.js": "/devwork/static/js/main.6a3d7455.js",
+    "static/js/787.e29dc422.chunk.js": "/devwork/static/js/787.e29dc422.chunk.js",
+    "index.html": "/devwork/index.html",
+    "main.7cad142b.css.map": "/devwork/static/css/main.7cad142b.css.map",
+    "main.6a3d7455.js.map": "/devwork/static/js/main.6a3d7455.js.map",
+    "787.e29dc422.chunk.js.map": "/devwork/static/js/787.e29dc422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cad142b.css",
+    "static/js/main.6a3d7455.js"
+  ]
+}
